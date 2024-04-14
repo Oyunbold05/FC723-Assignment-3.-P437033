@@ -30,7 +30,7 @@ class EuclideanAlgorithm:  # Create class.
 test = EuclideanAlgorithm()
 print(test.gcd_keyboard_input())
 
-# Extended pseudocode
+# Q6. Extended pseudocode
 # ax+by=GCD(a,b)
 # This pseudocode extends the Euclidean Algorithm by returning not only the GCD of two numbers a and b, but also the coefficients x and y. These coefficients can be used to express the GCD as a linear combination of a and b.
 # function ExtendedEuclideanAlgorithm(a, b)
@@ -41,3 +41,7 @@ print(test.gcd_keyboard_input())
 #         x = y1
 #         y = x1 - (a div b) * y1
 #         return (gcd, x, y)
+
+# Q5. GIT repository link: https://github.com/Oyunbold05/FC723-Assignment-3.-P437033
+# By using git commands such as commit and push. I have effectively tracked the changes I have made through the process. For example, by committing new changes regularly, I can restore my code in case where the new change does not work.
+# 'Commit changes', 'View Commit History' and 'View Differences Between Commits' are all useful for me by allowing me to see the changes and differences between my changes.

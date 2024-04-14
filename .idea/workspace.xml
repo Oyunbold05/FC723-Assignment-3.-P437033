@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b77f4dad-64a0-4a66-9666-19c9b5edf396" name="Changes" comment="4th commit. Refactored the application for keyboard input and added invalid-input handling.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b77f4dad-64a0-4a66-9666-19c9b5edf396" name="Changes" comment="5th commit. Added the extended pseudocode for the Euclidean Algorithm">
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713125050729</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5th commit. Added the extended pseudocode for the Euclidean Algorithm">
+      <option name="closed" value="true" />
+      <created>1713134256948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713134256948</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,6 +103,7 @@
     <MESSAGE value="2ndt commit. Converted the pseudocode into a working application." />
     <MESSAGE value="3rd commit. Refactored the application with the use of encapsulation." />
     <MESSAGE value="4th commit. Refactored the application for keyboard input and added invalid-input handling." />
-    <option name="LAST_COMMIT_MESSAGE" value="4th commit. Refactored the application for keyboard input and added invalid-input handling." />
+    <MESSAGE value="5th commit. Added the extended pseudocode for the Euclidean Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th commit. Added the extended pseudocode for the Euclidean Algorithm" />
   </component>
 </project>
