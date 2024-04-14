@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b77f4dad-64a0-4a66-9666-19c9b5edf396" name="Changes" comment="2ndt commit. Converted the pseudocode into a working application.">
+    <list default="true" id="b77f4dad-64a0-4a66-9666-19c9b5edf396" name="Changes" comment="3rd commit. Refactored the application with the use of encapsulation.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,12 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713120397368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd commit. Refactored the application with the use of encapsulation.">
+      <option name="closed" value="true" />
+      <created>1713120888083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713120888083</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit. Designed the pseudocode of the Euclidean Algorithm." />
     <MESSAGE value="2ndt commit. Converted the pseudocode into a working application." />
-    <option name="LAST_COMMIT_MESSAGE" value="2ndt commit. Converted the pseudocode into a working application." />
+    <MESSAGE value="3rd commit. Refactored the application with the use of encapsulation." />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit. Refactored the application with the use of encapsulation." />
   </component>
 </project>
