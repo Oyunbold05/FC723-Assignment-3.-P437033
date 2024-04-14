@@ -29,3 +29,15 @@ class EuclideanAlgorithm:  # Create class.
 
 test = EuclideanAlgorithm()
 print(test.gcd_keyboard_input())
+
+# Extended pseudocode
+# ax+by=GCD(a,b)
+# This pseudocode extends the Euclidean Algorithm by returning not only the GCD of two numbers a and b, but also the coefficients x and y. These coefficients can be used to express the GCD as a linear combination of a and b.
+# function ExtendedEuclideanAlgorithm(a, b)
+#     if b == 0 then
+#         return (a, 1, 0)  // Base case: GCD(a, 0) = a, x = 1, y = 0
+#     else
+#         (gcd, x1, y1) = ExtendedEuclideanAlgorithm(b, a mod b)  // Recursive call
+#         x = y1
+#         y = x1 - (a div b) * y1
+#         return (gcd, x, y)
